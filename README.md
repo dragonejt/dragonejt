@@ -7,17 +7,7 @@
 [![Evan Tung's github stats](https://github-readme-stats.vercel.app/api?username=dragonejt&theme=nord)](https://dragonejt.me)
 
 ## Skills
-- Java
-- JavaScript: NodeJS, React, Express
-- Python: Django (basic), Pandas, Matplotlib (basic)
-- HTML/CSS: Bootstrap
-- APIs: REST
-- Database: MongoDB
-- C/C++ (basic)
-- Git/GitHub
-- Bash (Terminal)
-- Project Management: Agile, Kanban Boards
-- Communication: Slack, Microsoft Teams, Zoom
-- Computer Architecture
+**Programming:** JavaScript/Node.js, Python, Java, HTML/CSS, C/C++
+**Frameworks/Libraries:** React, Django, Express.js, Bootstrap, Pandas, matplotlib
+**Other Technologies:** Git, GitHub, MongoDB, Bash, Linux, Windows
 
-## Projects are pinned on my profile!
