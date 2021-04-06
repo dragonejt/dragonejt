@@ -8,6 +8,7 @@
 
 ## Skills
 **Programming:** JavaScript/Node.js, Python, Java, HTML/CSS, C/C++
-**Frameworks/Libraries:** React, Django, Express.js, Bootstrap, Pandas, matplotlib
-**Other Technologies:** Git, GitHub, MongoDB, Bash, Linux, Windows
 
+**Frameworks/Libraries:** React, Django, Express.js, Bootstrap, Pandas, matplotlib
+
+**Other Technologies:** Git, GitHub, MongoDB, Bash, Linux, Windows
