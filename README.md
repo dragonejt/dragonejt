@@ -9,6 +9,6 @@
 ## Status
 **🤔 Learning:** Django, React Native, PostgreSQL
 
-**🛠️ Building:** Undisclosed projects in my 2021 Summer Internship at Liberty Mutual Insurance
+**🛠️ Building:** Undisclosed projects in my Summer 2021 Internship at Liberty Mutual Insurance
 
 **🎮 Fun Stuff:** I will start a YouTube Channel soon!
