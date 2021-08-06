@@ -1,12 +1,9 @@
-# Evan Tung (dragonejt)
-
-## [dragonejt.dev](https://dragonejt.dev)
-
+# Introduction
 ### Hey, welcome to my profile! I am Evan Tung, a Computer Science Student graduating in 2023.
 
 [![Evan Tung's github stats](https://github-readme-stats.vercel.app/api?username=dragonejt&theme=nord)](https://dragonejt.dev)
 
-## Status
+# Status
 **🤔 Learning:** Django, React Native, PostgreSQL
 
 **🛠️ Building:** Undisclosed projects in my Summer 2021 Internship at Liberty Mutual Insurance
