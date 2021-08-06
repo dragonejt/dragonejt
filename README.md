@@ -6,9 +6,9 @@
 
 [![Evan Tung's github stats](https://github-readme-stats.vercel.app/api?username=dragonejt&theme=nord)](https://dragonejt.dev)
 
-## Skills
-**Programming:** JavaScript/Node.js, Python, Java, HTML/CSS, C/C++
+## Status
+**🤔 Learning:** Django, React Native, PostgreSQL
 
-**Frameworks/Libraries:** React, Django, Express.js, Bootstrap, Pandas, matplotlib
+**🛠️ Building:** Undisclosed projects in my 2021 Summer Internship at Liberty Mutual Insurance
 
-**Other Technologies:** Git, GitHub, MongoDB, Bash, Linux, Windows
+**🎮 Fun Stuff:** I will start a YouTube Channel soon!
