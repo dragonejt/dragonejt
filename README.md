@@ -4,8 +4,8 @@
 [![Evan Tung's github stats](https://github-readme-stats.vercel.app/api?username=dragonejt&theme=nord)](https://dragonejt.dev)
 
 # Status
-**🤔 Learning:** Django, React Native, PostgreSQL
+**🤔 Learning:** Django, React Native, TensorFlow
 
-**🛠️ Building:** Undisclosed projects in my Summer 2021 Internship at Liberty Mutual Insurance
+**🛠️ Building:** Nothing at the moment.
 
 **🎮 Fun Stuff:** I will start a YouTube Channel soon!
