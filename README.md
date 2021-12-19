@@ -8,4 +8,4 @@
 
 **🛠️ Building:** Nothing at the moment.
 
-**🎮 Fun Stuff:** I will start a YouTube Channel soon!
+**🎮 Fun Stuff:** I have a [YouTube Channel](https://www.youtube.com/channel/UCjr2ZKxkwukop0tlVauADzA)!
