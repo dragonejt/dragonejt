@@ -8,4 +8,4 @@
 
 **🛠️ Building:** Nothing at the moment.
 
-**🎮 Fun Stuff:** I have a [YouTube Channel](https://www.youtube.com/channel/UCjr2ZKxkwukop0tlVauADzA)!
+**🎮 Fun Stuff:** I am writing a webnovel, [Blood of the Azure Dragons](https://www.wattpad.com/story/295768566-blood-of-the-azure-dragons)!
