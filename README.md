@@ -5,6 +5,6 @@
 # Status
 **🤔 Learning:** Django, React Native, TensorFlow
 
-**🛠️ Building:** Improvements to [BrainTracker](https://github.com/dragonejt/BrainTracker_API), an app for monitoring the comorbidities of pediatric epilepsy.
+**🛠️ Building:** [celebro](https://github.com/dragonejt/celebro), [BrainTracker](https://github.com/dragonejt/BrainTracker_API)
 
 **🎮 Fun Stuff:** I am writing a webnovel, [Blood of the Azure Dragons](https://www.wattpad.com/story/295768566-blood-of-the-azure-dragons)!
