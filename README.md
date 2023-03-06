@@ -1,7 +1,6 @@
 # Introduction
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dragonejt&theme=nord&show_icons=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonejt&theme=nord)
 
 # Status
