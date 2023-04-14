@@ -4,7 +4,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonejt&theme=nord)
 
 # Status
-**🤔 Learning:** Django, discord.js, TypeScript
+**🤔 Learning:** Django, discord.js, Devvit
 
 **🛠️ Building:** The [Sibyl System](https://github.com/dragonejt/sibyl), a Content Moderation and Toxicity Profiling System using Machine Learning
 
