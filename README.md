@@ -8,4 +8,4 @@
 
 **🛠️ Building:** The [Sibyl System](https://github.com/dragonejt/sibyl), a Content Moderation and Toxicity Profiling System using Machine Learning
 
-**🎮 Fun Stuff:** I am starting a [Developer Blog](https://dragonejt.dev/) and [YouTube Channel](https://www.youtube.com/channel/UCjr2ZKxkwukop0tlVauADzA)! A [WebNovel](https://www.wattpad.com/story/333797746-esparnica-le-fae) is also in the works.
+**🎮 Fun Stuff:** I am starting a [Developer Blog](https://dragonejt.dev/) and [YouTube Channel](https://www.youtube.com/@dragonejt)! A [WebNovel](https://www.wattpad.com/story/333797746-esparnica-le-fae) is also in the works.
