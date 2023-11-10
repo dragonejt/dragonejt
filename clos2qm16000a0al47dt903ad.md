@@ -8,7 +8,7 @@ tags: events, nonprofit, government, volunteering, civic-tech
 
 ---
 
-Last night, I attended my first [Civic Tech DC](https://civictechdc.org/) meeting. Civic Tech DC is a non-partisan, non-political group of volunteer civic hackers working together to solve local issues and help people engage with the city. It was a great opportunity to work with other civic hackers and representatives from different nonprofits around the city, and also to learn about the different issues my city is facing and how Software Engineers and other people in tech like you and me can help them. This post serves to broadly define what Civic Technology is, relate my experience working on the [DC Eviction Court Scraper](https://github.com/civictechdc/court-scraper) project, and explain why you should care about Civic Tech.
+Last night, I attended my first [Civic Tech DC](https://civictechdc.org/) meeting. Civic Tech DC is a "non-partisan, non-political group of volunteer civic hackers working together to solve local issues and help people engage with the city". It was a great opportunity to work with other civic hackers and representatives from different nonprofits around the city, and also to learn about the different issues my city is facing and how Software Engineers and other people in tech like you and me can help them. This post serves to broadly define what Civic Technology is, relate my experience working on the [DC Eviction Court Scraper](https://github.com/civictechdc/court-scraper) project, and explain why you should care about Civic Tech.
 
 ## What is Civic Technology?
 
