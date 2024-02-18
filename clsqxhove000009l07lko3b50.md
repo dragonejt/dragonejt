@@ -3,6 +3,7 @@ title: "Discussing: Satellite Pattern-of-Life Characterization Dataset and Bench
 datePublished: Sun Feb 18 2024 03:08:44 GMT+0000 (Coordinated Universal Time)
 cuid: clsqxhove000009l07lko3b50
 slug: discussing-satellite-pattern-of-life-characterization-dataset-and-benchmark-suite
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708226774359/94f04bda-759a-4153-95f7-e27dcf4b9884.jpeg
 tags: ai, artificial-intelligence, machine-learning, research, ml, space, satellite, paper-review, dataset-for-machine-learning
 
 ---
