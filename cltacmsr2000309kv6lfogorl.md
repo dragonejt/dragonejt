@@ -4,7 +4,7 @@ datePublished: Sat Mar 02 2024 17:20:14 GMT+0000 (Coordinated Universal Time)
 cuid: cltacmsr2000309kv6lfogorl
 slug: aws-certifications-are-they-worth-it-should-you-get-one
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1709349645247/ac039051-5126-4aa4-aa6b-bf4ac21efffa.jpeg
-tags: cloud, software-development, aws, cloud-computing, software-engineering, amazon-web-services, certification, aws-certified-solutions-architect-associate, aws-certified-developer-associate
+tags: cloud, software-development, aws, cloud-computing, devops, software-engineering, amazon-web-services, certification, aws-certified-solutions-architect-associate, aws-certified-developer-associate
 
 ---
 
