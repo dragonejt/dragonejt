@@ -7,7 +7,7 @@ I am a Software Dev Engineer at Amazon Web Services, where I work on a service t
 - Applications of Machine Learning in Space and on Satellites
 - Django, discord.js, Devvit (Reddit Developer Platform)
 ## 🛠️ Building
-- [SpaceML: Projects in the Applications of Machine Learning in Space Exploration](https://www.kaggle.com/discussions/general/483792)
+- [Projects in the Applications of Machine Learning in Space Exploration](https://www.kaggle.com/discussions/general/483792)
 - The [Sibyl System](https://github.com/dragonejt/sibyl), a Content Moderation and Toxicity Profiling System using Machine Learning
 - [Street View Green View](https://github.com/AmericanRedCross/street-view-green-view), a set of scripts to map tree canopy cover from street level imagery.
 
