@@ -12,4 +12,4 @@ I am a Software Dev Engineer at Amazon Web Services, where I work on a service t
 - [Street View Green View](https://github.com/AmericanRedCross/street-view-green-view), a set of scripts to map tree canopy cover from street level imagery.
 
 ## 🎮 Fun Stuff
-- I am starting a [Tech Blog](https://dragonejt.dev/)!
+- I am starting a [Tech Blog](https://dragonejt.dev/)! It covers devlogs, tutorials, and research paper discussions.
