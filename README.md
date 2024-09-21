@@ -1,5 +1,6 @@
 # 👋 Welcome!
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dragonejt&theme=nord&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonejt&theme=nord&langs_count=3&hide=html,css,javascript)
 # 💼 My Work
 I am a Software Dev Engineer at Amazon Web Services, where I work on a service team called AWS Diode.
 # Status
