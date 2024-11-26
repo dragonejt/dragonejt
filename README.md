@@ -6,10 +6,8 @@ I am a Software Dev Engineer at Amazon Web Services, where I work on a service t
 # Status
 ## 🤔 Learning
 - Applications of Machine Learning in Space Exploration
-- Django, Pycord, Devvit (Reddit Dev Platform), Golang
 ## 🛠️ Building
 - [Projects in the Applications of Machine Learning in Space](https://www.kaggle.com/dragonejt)
-- The [Sibyl System](https://github.com/dragonejt/sibyl), a Content Moderation and Toxicity Profiling System using Machine Learning
 - [Street View Green View](https://github.com/AmericanRedCross/street-view-green-view), a set of scripts to map tree canopy cover from street level imagery.
 
 ## 🎮 Fun Stuff
