@@ -7,7 +7,7 @@ I am a Software Dev Engineer at Amazon Web Services, where I work on a service t
 - I am actively involved in [Civic Tech DC](https://www.civictechdc.org/), a group of volunteer devs working on civic tech projects. AmericanRedCross/street-view-green-view is a project that I work on in Civic Tech DC.
 # Status
 ## 🤔 Learning
-- Go, Django, Raspberry Pi
+- Django, discord.js, Raspberry Pi
 - Applications of Machine Learning in Space Exploration
 ## 🛠️ Building
 - [hakase](https://github.com/dragonejt/hakase-discord), a Discord Bot with helpful utilities for classroom Discord Servers, built in Go.
