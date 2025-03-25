@@ -15,7 +15,8 @@ I am a Software Dev Engineer at Amazon Web Services, where I work on a service t
 - Go, Django, Raspberry Pi
 ## 🛠️ Building
 - [hakase](https://github.com/dragonejt/hakase), a Discord Bot with helpful utilities for classroom Discord Servers.
-- [Street View Green View](https://github.com/AmericanRedCross/street-view-green-view), a set of scripts to map tree canopy cover from street level imagery.
+- [Street View Green View](https://github.com/AmericanRedCross/street-view-green-view), mapping tree canopy cover from street level imagery for the [American Red Cross](https://www.redcross.org/).
+- [EAVS Data](https://github.com/civictechdc/eavs_clc), processing the Election Administration and Voting Survey data to support research by the [Campaign Legal Center](https://campaignlegal.org/).
 
 ## 🎮 Fun Stuff
 - I am starting a [Tech Blog](https://dragonejt.dev/)! It covers devlogs, tutorials, and research paper discussions.
