@@ -3,7 +3,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dragonejt&theme=nord&show_icons=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonejt&theme=nord&layout=donut">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonejt&theme=nord&layout=donut" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonejt&theme=nord&layout=compact" />
 </a>
 
 # 💼 My Work
