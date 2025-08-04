@@ -12,9 +12,8 @@ I am a Software Dev Engineer at Amazon Web Services, where I work on a service t
 - I am actively involved in [Civic Tech DC](https://www.civictechdc.org/), a group of volunteer devs working on civic tech projects. AmericanRedCross/street-view-green-view is a project that I work on in Civic Tech DC.
 # Status
 ## 🤔 Learning
-- LangChain, Go, Raspberry Pi
+- LangChain, Palantir, Raspberry Pi
 ## 🛠️ Building
-- [hakase](https://github.com/dragonejt/hakase), a Discord Bot with helpful utilities for classroom Discord Servers.
 - [langchain-palantir](https://github.com/dragonejt/langchain-palantir), a LangChain provider for Palantir-provided LLMs on Palantir AIP.
 - [EAVS Data](https://github.com/civictechdc/eavs_clc), processing the Election Administration and Voting Survey data to support research by the [Campaign Legal Center](https://campaignlegal.org/).
 
