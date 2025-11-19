@@ -14,7 +14,7 @@ I am a Software Dev Engineer at Amazon Web Services, where I work on a service t
 ## 🤔 Learning
 - LangChain, Palantir, Go
 ## 🛠️ Building
-- [hakase](https://github.com/dragonejt/hakase-discord), a Discord Bot with helpful utilities for classroom Discord Servers.
+- [iceberg-mcp-server](https://github.com/dragonejt/iceberg-mcp-server), an MCP server for querying, retrieving, and storing data in Apache Iceberg.
 - [langchain-palantir](https://github.com/dragonejt/langchain-palantir), a LangChain provider for Palantir-provided LLMs on Palantir AIP.
 - [Congressional Tech](https://github.com/civictechdc/congressional-tech), tools that make legislative data more discoverable and useful.
 ## 🎮 Fun Stuff
