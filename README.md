@@ -1,9 +1,9 @@
 # 👋 Welcome!
-<a href="https://github-readme-stats.vercel.app/api?username=dragonejt&theme=nord&show_icons=true">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dragonejt&theme=nord&show_icons=true" />
+<a href="https://gh-stats.work/api?username=dragonejt&theme=nord&show_icons=true">
+  <img height=200 align="center" src="https://gh-stats.work/api?username=dragonejt&theme=nord&show_icons=true" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonejt&theme=nord&layout=donut">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonejt&theme=nord&layout=donut" />
+<a href="https://gh-stats.work/api/top-langs/?username=dragonejt&theme=nord&layout=donut">
+  <img height=200 align="center" src="https://gh-stats.work/api/top-langs/?username=dragonejt&theme=nord&layout=donut" />
 </a>
 
 # 💼 My Work
