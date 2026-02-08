@@ -11,7 +11,7 @@ I am a Software Dev Engineer at Amazon Web Services, where I work on a service t
 ## Outside of Work
 - I am actively involved in [Civic Tech DC](https://www.civictechdc.org/), a group of volunteer devs working on civic tech projects. [AmericanRedCross/street-view-green-view](https://github.com/AmericanRedCross/street-view-green-view) is a project that I work on in Civic Tech DC.
 # Status
-## 🧠 Learning
+## 🎓 Learning
 - LangChain, Palantir, Go
 - Studying for the [AWS Certified Generative AI Developer - Professional](https://aws.amazon.com/certification/certified-generative-ai-developer-professional/) certification.
 ## 🛠️ Building
